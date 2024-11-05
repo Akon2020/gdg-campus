@@ -30,6 +30,7 @@ module.exports = {
           red: '#DB4437',
           green: '#0F9D58',
           orange: '#F4B400',
+          gris: '#555',
           hover: '#00c187',
         }
       },
