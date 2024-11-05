@@ -7,7 +7,7 @@
     @apply bg-accent-hover text-white;
   }
   body {
-    @apply font-primary bg-primary text-white leading-loose;
+    @apply font-primary bg-primary text-black leading-loose;
   }
   .h1 {
     @apply text-[48px] xl:text-[60px] leading-[1.1] font-semibold;

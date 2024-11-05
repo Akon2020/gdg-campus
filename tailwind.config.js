@@ -24,9 +24,12 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: "#1c1c22",
+        primary: "whitesmoke",
         accent:{
-          DEFAULT: '#00FF99',
+          DEFAULT: '#4285F4',
+          red: '#DB4437',
+          green: '#0F9D58',
+          orange: '#F4B400',
           hover: '#00c187',
         }
       },
@@ -46,5 +49,5 @@ module.exports = {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  // plugins: [require("tailwindcss-animate")],
 };
